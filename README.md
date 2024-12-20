@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zephyR00S
-- 👀 I’m interested in Web Development and Mobile App Development
+  
 - ⚡ Fun fact: AI will take all our jobs :")
 
 <!---
